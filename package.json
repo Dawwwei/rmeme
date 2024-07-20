@@ -1,0 +1,27 @@
+{
+  "name": "rmeme",
+  "version": "1.0.0",
+  "description": "Random Meme Generator (Returns the URL of a random meme image (made for cybot discord bot))",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dawwwei/rmeme.git"
+  },
+  "keywords": [
+    "random",
+    "meme",
+    "generator",
+    "rmeme",
+    "discord",
+    "bot"
+  ],
+  "author": "dl347",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dawwwei/rmeme/issues"
+  },
+  "homepage": "https://github.com/Dawwwei/rmeme/.github/README.md"
+}
