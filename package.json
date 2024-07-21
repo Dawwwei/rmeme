@@ -1,6 +1,6 @@
 {
   "name": "rmeme",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Random Meme Generator (Returns the URL of a random meme image (made for a discord bot))",
   "main": "src/index.js",
   "scripts": {
